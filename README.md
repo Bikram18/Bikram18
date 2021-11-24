@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bikram
+- 👀 my fields of interest are web developement and software developement.
+- 🌱 I’m currently Pursuing Diploma in Computer Information Systems.
